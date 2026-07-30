@@ -5,7 +5,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-17-00599C?logo=cplusplus&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-informational)
 
-**BilgMimariProje**, Bilgisayar Mimarisi derslerinde işlenen **Hamming SEC (Single Error Correction)** yöntemini uçtan uca simüle eden bir Qt Widgets masaüstü uygulamasıdır. Girilen ikili veriden parite bitlerini üretir, oluşan kod kelimesini "bellek" üzerinde interaktif butonlarla görselleştirir, dilediğiniz bite tıklayarak yapay hata enjekte etmenizi sağlar ve hatayı **anlık olarak** tespit edip düzeltir.
+**Hamming SEC (Single Error Correction)** yöntemini uçtan uca simüle eden bir Qt Widgets masaüstü uygulamasıdır. Girilen ikili veriden parite bitlerini üretir, oluşan kod kelimesini "bellek" üzerinde interaktif butonlarla görselleştirir, dilediğiniz bite tıklayarak yapay hata enjekte etmenizi sağlar ve hatayı **anlık olarak** tespit edip düzeltir.
 
 ## 📋 İçindekiler
 
