@@ -1,4 +1,4 @@
-# 🧮 BilgMimariProje — Hamming Kodu (SEC) Hata Düzeltme Simülatörü
+# 🧮 Hamming Kodu (SEC) Hata Düzeltme Simülatörü
 
 ![Qt](https://img.shields.io/badge/Qt-6%20%7C%205-41CD52?logo=qt&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-3.16%2B-064F8C?logo=cmake&logoColor=white)
